@@ -1,4 +1,4 @@
-# 🕶️ Project Story: J-2085  
+# 🕶️ J-2085  
 
 > *"KNOWLEDGE IS POWER, AWARENESS IS FREEDOM, ALGORITHM DECIDES!"*  
 
