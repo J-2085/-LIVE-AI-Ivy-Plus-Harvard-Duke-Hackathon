@@ -1,5 +1,6 @@
-# 🕶️ J-2085  
 
+![logo](https://github.com/user-attachments/assets/f1e116c5-60b6-4b56-aaef-966469cd40ff)
+# 🕶️ J-2085  
 ![Main_Screen](https://github.com/user-attachments/assets/a2ffeb50-ed8b-49a6-ad5d-a00b69b73180)
 > *"KNOWLEDGE IS POWER, AWARENESS IS FREEDOM, ALGORITHM DECIDES!"*  
 
