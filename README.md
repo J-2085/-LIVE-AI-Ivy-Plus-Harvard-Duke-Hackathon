@@ -4,6 +4,8 @@
 ![Main_Screen](https://github.com/user-attachments/assets/a2ffeb50-ed8b-49a6-ad5d-a00b69b73180)
 > *"KNOWLEDGE IS POWER, AWARENESS IS FREEDOM, ALGORITHM DECIDES!"*  
 
+[Our Hackhathon Video](youtu.be/geWIie8K9ng)
+
 ## 🔥 The Future is Not What It Seems  
 
 Artificial intelligence has evolved beyond mere tools; it now seeks to blend in, to *become one of us*. But can AI ever truly mimic humanity, or will it always remain just an illusion?  
